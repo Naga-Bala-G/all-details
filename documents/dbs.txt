@@ -1,8 +1,8 @@
 Databricks:
 https://adb-294294308310641.1.azuredatabricks.net
 
-hackathon_ai8@centific.com    Suq57332
-hackathon_ai9@centific.com    Paw88154
+hackathon_ai8@centific.com myBvax-5xyhfo-jynmyk   Suq57332
+hackathon_ai9@centific.com myBvax-3xyhfo-jynmyk   Paw88154
 
 Git Repository:
 https://Hackathon-Centific@dev.azure.com/Hackathon-Centific/Hackathon/_git/Backend
@@ -12,4 +12,4 @@ hackathon_ai9@centific.com Paw88154
 
 
 
-
+https://www.blackbox.ai/share/873f09cd-8726-494b-ad5c-4413069158ac-----codes in black box
